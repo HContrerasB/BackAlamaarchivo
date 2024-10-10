@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackPTAlmaArchivo", "BackPTAlmaArchivo\BackPTAlmaArchivo.csproj", "{5E764455-4F19-48C4-B67C-36EDC4B7839D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E764455-4F19-48C4-B67C-36EDC4B7839D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E764455-4F19-48C4-B67C-36EDC4B7839D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E764455-4F19-48C4-B67C-36EDC4B7839D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E764455-4F19-48C4-B67C-36EDC4B7839D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE54E80-4039-4912-9181-E87E15C02747}
+	EndGlobalSection
+EndGlobal
